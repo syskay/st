@@ -1,5 +1,5 @@
 # dwm
-My fork of dwm - dynamic window manager
+My fork of st - simple terminal
 
 # patches
 - alpha
