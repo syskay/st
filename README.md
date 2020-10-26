@@ -5,3 +5,4 @@ My fork of st - simple terminal
 - alpha
 - one clipboard
 - rithclickpaste
+- scrollback
