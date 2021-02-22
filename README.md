@@ -6,3 +6,4 @@ My fork of st - simple terminal
 - one clipboard
 - rithclickpaste
 - scrollback
+- externalpiep
