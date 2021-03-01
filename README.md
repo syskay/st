@@ -8,3 +8,4 @@ My fork of st - simple terminal
 - rithclickpaste
 - scrollback
 - externalpipe
+- anysize
